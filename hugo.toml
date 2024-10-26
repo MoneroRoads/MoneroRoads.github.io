@@ -2,6 +2,8 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
+title = "Monero Roads - All Roads lead to Monero"
+languageCode = 'en-us'
 theme = "hugo-story"
 
 ## -----------------------------------------------
@@ -12,7 +14,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://moneroroads.com/"
 publishDir = "public"
 
 # Remote
