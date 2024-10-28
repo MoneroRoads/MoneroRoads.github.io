@@ -8,6 +8,8 @@
             {{ with .Site.Params.social.youtube }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-youtube"><span class="label">Youtube</span></a></li>{{end}}
             {{ with .Site.Params.social.email }}<li><a target="_blank" href="mailto:{{.}}" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>{{end}}
             {{ with .Site.Params.social.telegram }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-telegram"><span class="label">Telegram</span></a></li>{{end}}
+            {{ with .Site.Params.social.session }}<li><a target="_blank" href="https://getsession.org/#/session/{{.}}" class="icon brands style2 fa-session-messenger"><span class="label">Session</span></a></li>{{end}}
+            {{ with .Site.Params.social.signal }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-signal-messenger"><span class="label">Signal</span></a></li>{{end}}
 	    {{ with .Site.Params.social.monero }}<li><a target="_blank" href="monero:{{.}}" class="icon brands style2 fa-monero"><span class="label">Donate Monero</span></a></li>{{end}}
         </ul>
 	<p><a target="_blank" href="https://MoneroRoads.com">{{ .Site.Title }}</a> &copy; {{ .Site.Copyright }}</p>
