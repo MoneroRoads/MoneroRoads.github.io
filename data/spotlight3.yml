@@ -7,4 +7,6 @@ content: |
 button: 
   label: "Learn More"
   link: "#"
-image: "images/spotlight03.jpg"
+image:
+  src: "images/spotlight03.jpg"
+  alt: ""

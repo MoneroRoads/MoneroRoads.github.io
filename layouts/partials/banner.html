@@ -1,6 +1,5 @@
-<!-- Banner -->
 <section class="banner {{ .style }}">
-    <div class="content">
+    <div class="content" style="opacity: 0.9;">
         {{ with .title }}<h1>{{ . }}</h1>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
@@ -9,6 +8,6 @@
         </ul>{{ end }}
     </div>
     {{ with .image }}<div class="image">
-        <img src="{{.}}" alt="Hugo Story" />
+        <img src="{{.}}" alt="Monero Roads RV" />
     </div>{{end}}
 </section>

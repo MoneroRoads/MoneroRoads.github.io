@@ -37,12 +37,13 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
+  youtube = "https://youtube.com/moneroroads"
   github = "https://github.com/MoneroRoads/"
-  twitter = "https://x.com/MoneroRoads"
+  x = "https://x.com/MoneroRoads"
   email = "moneroroads@protonmail.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
+  instagram = "https://www.instagram.com/moneroroads/"
+  monero = "87hiexnDraV3TVD5jxmMYXSqg1oXNSiAd7GanZHoZwYBJwEHdR8MdsyF6s5AiKCdNW8QfuD4xVJjkC8osEY6TcAP91MZGA8?recipient_name=MoneroRoads"
+  telegram = "https://t.me/MoneroRoads"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
