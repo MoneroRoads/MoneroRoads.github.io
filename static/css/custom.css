@@ -1,0 +1,36 @@
+/* Social Icons */
+a.custom {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 100%;
+  display: inline-block;
+}
+
+a.custom:hover {
+  border: 1px solid rgba(0, 0, 0, 1);  
+}
+
+a.custom:before {
+  content: 'x';
+  color: transparent !important;
+  mask-size: 1rem;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  background-color: #f60;
+}
+
+a.custom:hover:before {
+  background-color: #000;
+}
+
+.icon.brands.custom.signal:before {
+  mask-image: url("/images/signal.svg");
+}
+
+.icon.brands.nostr:before {
+  mask-image: url("/images/nostr.svg");
+  mask-size: 1.5rem;
+}
+
+.icon.brands.session:before {
+  mask-image: url("/images/session.svg");
+}

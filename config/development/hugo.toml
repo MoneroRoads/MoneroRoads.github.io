@@ -45,6 +45,7 @@ disableKinds = ["taxonomy", "section"]
   telegram = "https://t.me/MoneroRoads"
   monero = "87hiexnDraV3TVD5jxmMYXSqg1oXNSiAd7GanZHoZwYBJwEHdR8MdsyF6s5AiKCdNW8QfuD4xVJjkC8osEY6TcAP91MZGA8?recipient_name=MoneroRoads"
   session = "05b165bfc466e3fb21c7218aaeb943d70f4304949e474e944d4ca136951bd18c2c"
+  nostr = "npub1m86vau8js7kqkt6fgxht536ecp224yvwv06dpdczdje3qckxthdqkd0520"
   signal = "https://signal.me/#eu/PEbqey__IiV3set2I11emHlpRk56_EPxDkcKJcQYiTZhwTeooNBA-a-Y5eW5CykZ"
 
 [Params.asset]
