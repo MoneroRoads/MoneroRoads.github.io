@@ -36,6 +36,10 @@ disableKinds = ["taxonomy", "section"]
   logo = "images/banner.jpg"
   favicon = true
 
+[Params.style]
+fg = "#ff6600"
+fg-bold = "#ff6600"
+
 [Params.social]
   youtube = "https://youtube.com/moneroroads"
   github = "https://github.com/MoneroRoads/"
