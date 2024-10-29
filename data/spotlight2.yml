@@ -1,11 +1,11 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight 2"
+style: "style1 orient-left content-align-left image-position-right onscroll-image-fade-in"
+title : "Fundraiser Special Offer"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  For 4 months the square meter for only 10 XMR and for lifetime (of the RV, minimum 18 months) for 30 XMR. The minimum size here also 10x10cm2. Additional this special offer comes together with a 30% lifetime discount for all future purchases for all sponsors.
 button: 
   label: "Tell me"
   link: "https://getmonero.org"
 image:
-  src: "images/spotlight02.jpg"
+  src: "images/addspace-right-with-display.png"
   alt: ""

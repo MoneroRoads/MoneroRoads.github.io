@@ -1,10 +1,11 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-left image-position-left onscroll-image-fade-in"
 id: "first"
 title : "Advertising on the sides"
 content: |
   provide approximately 19m2 (~204sqft) on add space with the 65" digital billboard displays included each. With the smallest unit to rent 10x10cm2 (~0.1sqft), and the biggest rectangular surface 570cm (~18ft) width by 120cm (~3.93ft) height. The Monero advertising is an non-negotiable, but in case you want to rent a whole side, the Monero ad could be moved flexible in an harmonic way.
   The pricing for per square meter (~10.76sqft) on the sides are 5 XMR per month and 40 XMR per year.
+  Each square you can see on the picture is 10x10cm2 (~4"x4"). Spaces are given in a first come, first serve bases, but depending on the size of the ad to use the complete space in an optimized way.
 button: 
   label: "Learn More"
   link: "#"

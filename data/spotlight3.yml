@@ -1,12 +1,13 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Advertising on the back"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  will be mainly possible through the 85" digital billboard by auto service through the website, where you upload, enter parameters like impressions, maximum price, and so on and then pay with XMR. The only manual labour done on Monero Roads end is to check if the advertising applies by the terms of service to secure our own safety and not disturbe targeted or non-targeted audiance and protect minors.
+  The prices are not yet settled, the same is for the remaining add space on the back. And how future plans of a trailer are in consideration, there is also a handling for that case necessary.
 button: 
   label: "Learn More"
   link: "#"
 image:
-  src: "images/spotlight03.jpg"
+  src: "images/addspace-back.png"
   alt: ""

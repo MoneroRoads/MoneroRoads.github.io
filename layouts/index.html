@@ -4,8 +4,10 @@
 	{{ partial "spotlight" site.Data.spotlight1 }}
 	{{ partial "spotlight" site.Data.spotlight2 }}
 	{{ partial "spotlight" site.Data.spotlight3 }}
+{{ if eq 1 0 }}
 	{{ partial "gallery" site.Data.gallery }}
 	{{ partial "items" site.Data.items }}
+{{ end }}
 	{{ partial "footer" . }}
 
 {{ end }}
