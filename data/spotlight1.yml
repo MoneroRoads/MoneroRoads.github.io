@@ -1,12 +1,13 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Advertising on the sides"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  provide approximately 19m2 (~204sqft) on add space with the 65" digital billboard displays included each. With the smallest unit to rent 10x10cm2 (~0.1sqft), and the biggest rectangular surface 570cm (~18ft) width by 120cm (~3.93ft) height. The Monero advertising is an non-negotiable, but in case you want to rent a whole side, the Monero ad could be moved flexible in an harmonic way.
+  The pricing for per square meter (~10.76sqft) on the sides are 5 XMR per month and 40 XMR per year.
 button: 
   label: "Learn More"
   link: "#"
 image:
-  src: "images/spotlight01.jpg"
+  src: "images/addspace-right-with-display.png"
   alt: ""
