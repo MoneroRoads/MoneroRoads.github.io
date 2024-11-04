@@ -34,3 +34,7 @@ a.custom:hover:before {
 .icon.brands.session:before {
   mask-image: url("/images/session.svg");
 }
+
+.icon.brands.simplex:before {
+  mask-image: url("/images/simplex.svg");
+}

@@ -12,6 +12,7 @@
             {{ with .Site.Params.social.telegram }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-telegram"><span class="label">Telegram</span></a></li>{{end}}
             {{ with .Site.Params.social.session }}<li><a target="_blank" href="https://getsession.org/#/session/{{.}}" class="icon brands style2 custom session"><span class="label">Session</span></a></li>{{end}}
             {{ with .Site.Params.social.signal }}<li><a target="_blank" href="{{.}}" class="icon style2 brands custom signal"><span class="label">Signal</span></a></li>{{end}}
+            {{ with .Site.Params.social.simplex }}<li><a target="_blank" href="{{.}}" class="icon style2 brands custom simplex"><span class="label">SimpleX</span></a></li>{{end}}
 	    {{ with .Site.Params.social.monero }}<li><a target="_blank" href="monero:{{.}}" class="icon brands style2 fa-monero"><span class="label">Donate Monero</span></a></li>{{end}}
 	    {{ with .Site.Params.social.nostr }}<li><a target="_blank" href="nostr:{{.}}" class="icon style2 brands custom nostr"><span class="label">Nostr</span></a></li>{{end}}
         </ul>
