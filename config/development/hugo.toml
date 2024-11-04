@@ -42,6 +42,8 @@ disableKinds = ["taxonomy", "section"]
   x = "https://x.com/MoneroRoads"
   email = "moneroroads@protonmail.com"
   instagram = "https://www.instagram.com/moneroroads/"
+  vimeo = "https://vimeo.com/moneroroads"
+  twitch = "https://www.twitch.tv/moneroroads"
   telegram = "https://t.me/MoneroRoads"
   monero = "87hiexnDraV3TVD5jxmMYXSqg1oXNSiAd7GanZHoZwYBJwEHdR8MdsyF6s5AiKCdNW8QfuD4xVJjkC8osEY6TcAP91MZGA8?recipient_name=MoneroRoads"
   session = "05b165bfc466e3fb21c7218aaeb943d70f4304949e474e944d4ca136951bd18c2c"
